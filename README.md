@@ -83,7 +83,7 @@ The **College Placement Management System** is a web application designed to str
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/moinmn/college-placement-management-system.git
+git clone 
 cd college-placement-management-system
 ```
 
@@ -132,8 +132,8 @@ cd college-placement-management-system
    ```
 
 ## Contributors
-- **Member 1**: [Moin MN](https://www.linkedin.com/in/moinnaik/)
-- **Member 2**: Rafat Muskan Shaikh
-- **Member 3**: Saquib Patel
-- **Member 4**: Neeraj Kumar
+- **Member 1**: Arunteja
+- **Member 2**: Pushpa Latha
+- **Member 3**: Nithisha
+
 
